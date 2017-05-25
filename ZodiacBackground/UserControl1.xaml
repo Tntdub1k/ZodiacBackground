@@ -6,7 +6,7 @@
              xmlns:local="clr-namespace:ZodiacBackground"
              mc:Ignorable="d" 
              d:DesignHeight="635.106" d:DesignWidth="640.426">
-    <Image x:Name="image1" HorizontalAlignment="Left" Height="661" VerticalAlignment="Top" Width="639" Source="astrology2_2.png" Margin="-1,0,-338,-361">
+    <Image x:Name="image1" HorizontalAlignment="Left" Height="661" VerticalAlignment="Top" Width="639" Source="astrology2_3.png" Margin="-1,0,-338,-361">
         <Image.OpacityMask>
             <RadialGradientBrush>
                 <GradientStop Color="Black" Offset="0.882"/>
