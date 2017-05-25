@@ -1,0 +1,12 @@
+C:\Users\Nick\Documents\Software\i Ching\iChing\IsolatedRepositories\ZodiacBackground\ZodiacBackground\bin\Debug\ZodiacBackground.dll
+C:\Users\Nick\Documents\Software\i Ching\iChing\IsolatedRepositories\ZodiacBackground\ZodiacBackground\bin\Debug\ZodiacBackground.pdb
+C:\Users\Nick\Documents\Software\i Ching\iChing\IsolatedRepositories\ZodiacBackground\ZodiacBackground\obj\Debug\ZodiacBackground.csprojResolveAssemblyReference.cache
+C:\Users\Nick\Documents\Software\i Ching\iChing\IsolatedRepositories\ZodiacBackground\ZodiacBackground\obj\Debug\UserControl1.g.cs
+C:\Users\Nick\Documents\Software\i Ching\iChing\IsolatedRepositories\ZodiacBackground\ZodiacBackground\obj\Debug\ZodiacBackground_MarkupCompile.cache
+C:\Users\Nick\Documents\Software\i Ching\iChing\IsolatedRepositories\ZodiacBackground\ZodiacBackground\obj\Debug\ZodiacBackground_MarkupCompile.lref
+C:\Users\Nick\Documents\Software\i Ching\iChing\IsolatedRepositories\ZodiacBackground\ZodiacBackground\obj\Debug\UserControl1.baml
+C:\Users\Nick\Documents\Software\i Ching\iChing\IsolatedRepositories\ZodiacBackground\ZodiacBackground\obj\Debug\ZodiacBackground.g.resources
+C:\Users\Nick\Documents\Software\i Ching\iChing\IsolatedRepositories\ZodiacBackground\ZodiacBackground\obj\Debug\ZodiacBackground.Properties.Resources.resources
+C:\Users\Nick\Documents\Software\i Ching\iChing\IsolatedRepositories\ZodiacBackground\ZodiacBackground\obj\Debug\ZodiacBackground.csproj.GenerateResource.Cache
+C:\Users\Nick\Documents\Software\i Ching\iChing\IsolatedRepositories\ZodiacBackground\ZodiacBackground\obj\Debug\ZodiacBackground.dll
+C:\Users\Nick\Documents\Software\i Ching\iChing\IsolatedRepositories\ZodiacBackground\ZodiacBackground\obj\Debug\ZodiacBackground.pdb
